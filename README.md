@@ -7,36 +7,27 @@ Your suspicions are correct. We are not here because of random chance. There is 
 ## Links
 
 ### Personal
-
+* <a href="mailto:mail@duanedieterich.com">Send Me Email</a>
 * [@DuaneDieterich on X](https://x.com/DuaneDieterich) - Free speech social media platform.
 * [Freedom of Religion](Freedom-Of-Religion.md) - Do I have the freedom to practice a religion ...
 * [Church Audio PDF](Church_Audio.pdf)
 
 ### Professional
-
 * [DMSTEX](https://www.dmstex.com/) - Advancing automated software engineering for relational technology.
 * [LinkedIn](https://www.linkedin.com/in/ddieterich/) - Business and employment focused social media platform.
 
 ### Publications
-
-[Pluggable Databases for DevOps - Making Individual Developer Databases a Reality](https://questoraclecommunity.org/learn/whitepapers/pluggable-databases-for-devops-making-individual-developer-databases-a-reality/)
-* IOUG Collaborate 2019
-* Co-Authors:
-    * [Amber Yancey](https://www.linkedin.com/in/amber-yancey-925327169/)
-
-[HealtheVet Reporting Engine, 10-R9646](http://www.swri.org/3pubs/ird2007/Synopses/109646.htm)
-* Southwest Research Institute
-* CoAuthors:
-    * [Victoria Zhou](https://www.linkedin.com/in/victoria-zhou-07573713/)
-    * [Kelvin Pan](https://www.linkedin.com/in/kelvinpan/)
-
-"Saving Time, Money and Projects with Generalized Models and Agile Processes - A Case Study"
-* 2002 Oracle Development Tools User Group (ODTUG) Conference
-* Co-Authors:
-    * [Roland Berg](https://www.linkedin.com/in/rolandsberg/)
+* [Pluggable Databases for DevOps - Making Individual Developer Databases a Reality](https://questoraclecommunity.org/learn/whitepapers/pluggable-databases-for-devops-making-individual-developer-databases-a-reality/)
+    * IOUG Collaborate 2019
+    * Co-Authors: [Amber Yancey](https://www.linkedin.com/in/amber-yancey-925327169/)
+* [HealtheVet Reporting Engine, 10-R9646](http://www.swri.org/3pubs/ird2007/Synopses/109646.htm)
+    * Southwest Research Institute
+    * Co-Authors: [Victoria Zhou](https://www.linkedin.com/in/victoria-zhou-07573713/), [Kelvin Pan](https://www.linkedin.com/in/kelvinpan/)
+* "Saving Time, Money and Projects with Generalized Models and Agile Processes - A Case Study" (Link not available to public)
+    * 2002 Oracle Development Tools User Group (ODTUG) Conference
+    * Co-Authors: [Roland Berg](https://www.linkedin.com/in/rolandsberg/)
 
 ### Open Source Projects
-
 * [ODBCapture](https://odbcapture.org/) - Native PL/SQL Application to Generate Source Code and Configuration Data.
 * [Wiki Based Issues](https://github.com/DDieterich/WikiBasedIssues) - Wiki Based Issue Tracking System for GitHub/GitLab.
 * [wtPLSQL](https://wtplsql.org/) - White-box testing framework for Oracle database objects.
@@ -49,7 +40,6 @@ Experienced IT professional with a technology focus on Oracle database. Providin
 
 
 ## Services
-
 * Application Development
 * Database Development
 * Software Testing
@@ -72,7 +62,7 @@ Proprietor - Self-employed
 ### [Centene Corporation](https://www.centene.com/)
 **Jul. 2023 - Feb. 2024: (Remote) St Louis, Missouri**
 
-[Formerly US Script of Fresno, CA](https://investors.centene.com/2006-01-04-Centene-Corporation-Closes-Acquisition-Of-US-Script,-Inc)
+Update: [Formerly US Script of Fresno, CA](https://investors.centene.com/2006-01-04-Centene-Corporation-Closes-Acquisition-Of-US-Script,-Inc)
 
 Senior Application Development Engineer
 * Continuation from TEKsystems contract.
@@ -98,7 +88,7 @@ Oracle PL/SQL Developer
 ### [ETC (Electronic Transaction Consultants)](https://www.quarterhill.com/)
 Oct. 2015 - Mar. 2022: Richardson, Texas
 
-[Sold to Quarterhill in 2021](https://www.prnewswire.com/news-releases/quarterhill-completes-acquisition-of-etc-301367721.html)
+Update: [Sold to Quarterhill in 2021](https://www.prnewswire.com/news-releases/quarterhill-completes-acquisition-of-etc-301367721.html)
 
 Oracle Database Architect
 * Key contributor to state of the art CI/CD implementation for Oracle database. Specific contributions include:
@@ -157,7 +147,7 @@ Sr. Database DeveloperSr. Database Developer
 ### [DMSTEX (Denton County)](https://www.dmstex.com/)
 **Sep. 2011 - May 2015: Flower Mound, Texas**
 
-(Moved to Dallas County)
+Update: Moved to Dallas County as DMSTEX
 
 Proprietor
 * Developed and delivered custom federal government procurement reports to Cross Timbers Procurement Center.
@@ -174,15 +164,17 @@ Proprietor
 ### [Enkitec](https://www.accenture.com/us-en/)
 **May 2011 - Sep. 2011L Irving, Texas**
 
-[Sold to Accenture in 2014](https://newsroom.accenture.com/news/2014/accenture-to-expand-its-oracle-engineered-systems-capabilities-with-acquisition-of-enkitec)
+Update: [Sold to Accenture in 2014](https://newsroom.accenture.com/news/2014/accenture-to-expand-its-oracle-engineered-systems-capabilities-with-acquisition-of-enkitec)
 
 Sr. Technical Consultant
 * Learned Oracle 11g Exadata and assisted with a successful Oracle 11g Exadata Proof-of-Concept (POC) for Noble Energy.
 * Upgraded Pro*C programs to Oracle 11g Exadata for Argo.
 * Developed a PowerBuilder Library (PBL) converter using Yabasic. Generated 1.2 million lines of Oracle11g PL/SQL code using the converter, saving the Cirro project an estimated $250K-$500K in manual coding efforts.
 
-### TEXOra (Guadalupe County) - Moved to Dallas
+### TEXOra (Guadalupe County)
 **Oct. 2010 - May 2011: Seguin, Texas**
+
+Update: Moved to Denton County as DMSTEX
 
 Proprietor
 * Developed and published Database Source Code Generation Tool for Relational Designers as Open Source on Google Code (http://dtgen.org).
@@ -234,11 +226,7 @@ Sr. Research Engineer
 ### [Thinkspark](https://www.linkedin.com/company/thinkspark/)
 **Mar. 1997 - Apr 2004: San Antonio, Texas**
 
-[Renamed from Database Consultants in 1998](https://digitgaps.com/report-store/thinkspark-corporation-company-profile-financial-and-strategic-swot-analysis-mergers-and-acquisitions-partnerships-and-investments-news-key-profiles-and-competitors-report/)
-
-[Sold to Axtive in 2003](https://digitgaps.com/report-store/thinkspark-corporation-company-profile-financial-and-strategic-swot-analysis-mergers-and-acquisitions-partnerships-and-investments-news-key-profiles-and-competitors-report/)
-
-[Sold to IBM in 2000](https://www.bizjournals.com/dallas/stories/2000/06/19/story4.html)
+Update: [Renamed from Database Consultants in 1998](https://digitgaps.com/report-store/thinkspark-corporation-company-profile-financial-and-strategic-swot-analysis-mergers-and-acquisitions-partnerships-and-investments-news-key-profiles-and-competitors-report/), [Sold to Axtive in 2003](https://digitgaps.com/report-store/thinkspark-corporation-company-profile-financial-and-strategic-swot-analysis-mergers-and-acquisitions-partnerships-and-investments-news-key-profiles-and-competitors-report/), [Sold to IBM in 2000](https://www.bizjournals.com/dallas/stories/2000/06/19/story4.html)
 
 Technical Lead
 * Responsible for the hiring, direction, and performance of up to 32 technical consultants.
@@ -255,15 +243,8 @@ Technical Lead
 ### [Motorola](https://www.vitesco-technologies.com/en-us)
 **Jun. 1986 - Mar. 1997: Seguin, Texas
 
-[Sold to Continental in 2006](https://www.marketwatch.com/story/motorola-sells-auto-electronics-ops-to-continental-for-1b)
-
-[Spin-Off to Vitesco in 2021](https://www.continental.com/en/investors/vitesco-technologies-spin-off/)
+Update: [Sold to Continental in 2006](https://www.marketwatch.com/story/motorola-sells-auto-electronics-ops-to-continental-for-1b), [Spin-Off to Vitesco in 2021](https://www.continental.com/en/investors/vitesco-technologies-spin-off/)
 
 Sr. Manufacturing Engineer
 * Involved with two major Computer Aided Manufacturing (CAM) projects.
 * Instrumental in the implementation of a state-of-the-art shop floor system
-
-
-## Contact
-
-<a href="mailto:mail@duanedieterich.com">Send Me Email</a>
