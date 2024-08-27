@@ -14,4 +14,4 @@ Your suspicions are correct. We are not here because of random chance. There is 
 * [Freedom of Religion](Freedom-Of-Religion.md) - Do I have the freedom to practice a religion ...
 * [Church Audio PDF](Church_Audio.pdf)
 
-<a href="mailto:mail@duanedieterich.com" target="_blank">Send Me Email</a>
+<a href="mailto:mail@duanedieterich.com">Send Me Email</a>
