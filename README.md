@@ -27,14 +27,15 @@ Your suspicions are correct. We are not here because of random chance. There is 
 * [wtPLSQL](https://wtplsql.org/) - White-box testing framework for Oracle database objects.
 * [utPLSQL_Lite](https://github.com/DDieterich/utPLSQL_Lite) - Intended to be a seed for utPLSQL version 3.
 
+
 ## About
 
 Experienced IT professional with a technology focus on Oracle database. Providing solutions to complex problems using engineering background and extensive technical experience. Specializing in Oracle Database design, custom generation, development, test, deployment, and maintenance.
 
 ## Experience
 
-### DMSTEX (Dallas County) - Feb 2015 - Present
-**Richardson, Texas, United States**
+### DMSTEX (Dallas County)
+**Feb. 2015 - Present: Richardson, Texas**
 
 Proprietor - Self-employed
 * Started Blog at https://www.reldesgen.com
@@ -43,8 +44,8 @@ Proprietor - Self-employed
 * Developed Wiki Based Issues for Distributed Issue Tracking
 * Developed Oracle Database Source Code Capture Project (https://www.odbcapture.org)
 
-### Centene Corporation - Jul 2023 - Feb 2024
-**St Louis, Missouri, United States (Remote)**
+### Centene Corporation
+**Jul. 2023 - Feb. 2024: (Remote) St Louis, Missouri**
 
 Senior Application Development Engineer
 * Converted to full-time from IT Staffing Solutions Provider contract.
@@ -54,14 +55,10 @@ Senior Application Development Engineer
 * Created comprehensive documentation to include ERD, state machine, and logic flow diagrams.
 * Developed other misc. ETL and synchronization packages.
 * Worked with multiple Git branches under simultaneous development.
-* Unique contributions included
-    * Development of custom set of re-runnable unit test scripts for Solaris File Loading Scripts
-    * Development of custom set of re-runnable unit test scripts for Oracle Database Packages.
-    * (Software security constraints did not allow outside unit test frameworks.)
+* Developed a custom set of re-runnable unit test scripts for Solaris File Loading Scripts and for Oracle Database Packages. (Software security constraints did not allow outside unit test frameworks.)
 
-
-### TEKsystems Oct 2022 - Jul 2023
-**Charlotte, North Carolina, United States (Remote)**
+### TEKsystems
+**Oct. 2022 - Jul. 2023: (Remote) Charlotte, North Carolina**
 
 Oracle PL/SQL Developer
 * Contracted to Centene Corporation.
