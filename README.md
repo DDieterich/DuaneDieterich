@@ -1,8 +1,7 @@
-# Duane Dieterich
 
 Your suspicions are correct. We are not here because of random chance. There is a Creator and He loves us so much that He gave His only Son to die for us.
 
-[Psalms+111:10](https://www.biblegateway.com/passage/?search=Psalms+111:10&version=ESV)
+[Psalms 111:10](https://www.biblegateway.com/passage/?search=Psalms+111:10&version=ESV)
 
 *The fear of the Lord is the beginning of wisdom; all those who practice it have a good understanding.*
 
@@ -15,4 +14,4 @@ Your suspicions are correct. We are not here because of random chance. There is 
 * [Freedom of Religion](Freedom-Of-Religion.md) - Do I have the freedom to practice a religion ...
 * [Church Audio PDF](Church_Audio.pdf)
 
-[Send Me Email](mail@duanedieterich.com)
+<a href="mailto:mail@duanedieterich.com" target="_blank">Send Me Email</a>
