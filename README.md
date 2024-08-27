@@ -19,9 +19,21 @@ Your suspicions are correct. We are not here because of random chance. There is 
 
 ### Publications
 
-* [Relational Design Generation](https://www.reldesgen.com/) - Oracle Database Design and Generation Services (DDGS).
-* (Add IOUG Link)
-* (Add SwRI Link)
+[Pluggable Databases for DevOps - Making Individual Developer Databases a Reality](https://questoraclecommunity.org/learn/whitepapers/pluggable-databases-for-devops-making-individual-developer-databases-a-reality/)
+* IOUG Collaborate 2019
+* Co-Authors:
+    * [Amber Yancey](https://www.linkedin.com/in/amber-yancey-925327169/)
+
+[HealtheVet Reporting Engine, 10-R9646](http://www.swri.org/3pubs/ird2007/Synopses/109646.htm)
+* Southwest Research Institute
+* CoAuthors:
+    * [Victoria Zhou](https://www.linkedin.com/in/victoria-zhou-07573713/)
+    * [Kelvin Pan](https://www.linkedin.com/in/kelvinpan/)
+
+"Saving Time, Money and Projects with Generalized Models and Agile Processes - A Case Study"
+* 2002 Oracle Development Tools User Group (ODTUG) Conference
+* Co-Authors:
+    * [Roland Berg](https://www.linkedin.com/in/rolandsberg/)
 
 ### Open Source Projects
 
@@ -34,6 +46,15 @@ Your suspicions are correct. We are not here because of random chance. There is 
 ## About
 
 Experienced IT professional with a technology focus on Oracle database. Providing solutions to complex problems using engineering background and extensive technical experience. Specializing in Oracle Database design, custom generation, development, test, deployment, and maintenance.
+
+
+## Services
+
+* Application Development
+* Database Development
+* Software Testing
+* Web Development
+
 
 ## Experience
 
@@ -48,7 +69,7 @@ Proprietor - Self-employed
 * Developed Oracle Database Source Code Capture Project (ODBCapture)
 * Developed Improved Oracle Package/Schema Generator (based on https://dtgen.org)
 
-### Centene Corporation
+### [Centene Corporation](https://www.centene.com/)
 **Jul. 2023 - Feb. 2024: (Remote) St Louis, Missouri**
 
 [Formerly US Script of Fresno, CA](https://investors.centene.com/2006-01-04-Centene-Corporation-Closes-Acquisition-Of-US-Script,-Inc)
