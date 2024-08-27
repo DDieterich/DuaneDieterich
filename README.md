@@ -1,2 +1,2 @@
-# Curriculum-Vitae
+# DuaneDieterich
 Curriculum Vitae for Duane Dieterich
