@@ -34,9 +34,9 @@ Experienced IT professional with a technology focus on Oracle database. Providin
 ## Experience
 
 ### DMSTEX (Dallas County) - Feb 2015 - Present
-Richardson, Texas, United States
+**Richardson, Texas, United States**
 
-**Proprietor - Self-employed**
+Proprietor - Self-employed
 * Started Blog at https://www.reldesgen.com
 * Developed and published utPLSQL_Lite, a utPLSQL V3 Seed Project
 * Developed and published wtPLSQL, a continuation of utPLSQL
@@ -44,9 +44,9 @@ Richardson, Texas, United States
 * Developed Oracle Database Source Code Capture Project (https://www.odbcapture.org)
 
 ### Centene Corporation - Jul 2023 - Feb 2024
-St Louis, Missouri, United States (Remote)
+**St Louis, Missouri, United States (Remote)**
 
-**Senior Application Development Engineer**
+Senior Application Development Engineer
 * Converted to full-time from IT Staffing Solutions Provider contract.
 * Created Solaris scripts and Oracle PL/SQL to load and process a variety of files for the Pharmacy Benefit Manager.
 * Corrected a variety of problems with transaction processing, state transitions, and error handling in Oracle database.
@@ -61,9 +61,9 @@ St Louis, Missouri, United States (Remote)
 
 
 ### TEKsystems Oct 2022 - Jul 2023
-Charlotte, North Carolina, United States (Remote)
+**Charlotte, North Carolina, United States (Remote)**
 
-**Oracle PL/SQL Developer**
+Oracle PL/SQL Developer
 * Contracted to Centene Corporation.
 * Created custom MS-Excel to generate test data.
 * Created schema and data load scripts for Oracle database.
