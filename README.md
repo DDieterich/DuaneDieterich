@@ -37,7 +37,7 @@ Experienced IT professional with a technology focus on Oracle database. Providin
 
 ## Experience
 
-### DMSTEX (Dallas County)
+### [DMSTEX (Dallas County)](https://www.dmstex.com/)
 **Feb. 2015 - Present: Richardson, Texas**
 
 Proprietor - Self-employed
@@ -63,7 +63,7 @@ Senior Application Development Engineer
 * Worked with multiple Git branches under simultaneous development.
 * Developed a custom set of re-runnable unit test scripts for Solaris File Loading Scripts and for Oracle Database Packages. (Software security constraints did not allow outside unit test frameworks.)
 
-### TEKsystems
+### [TEKsystems](https://www.teksystems.com/)
 **Oct. 2022 - Jul. 2023: (Remote) Charlotte, North Carolina**
 
 Oracle PL/SQL Developer
@@ -74,8 +74,10 @@ Oracle PL/SQL Developer
 * Created and implemented custom unit test utility for shell scripts.
 * Development tools included: SQL\*Developer, VS-Code, Putty, GitLab, and Jira.
 
-ETC (Electronic Transaction Consultants)
+### [ETC (Electronic Transaction Consultants)](https://www.quarterhill.com/)
 Oct. 2015 - Mar. 2022: Richardson, Texas
+
+[Sold to Quarterhill in 2021](https://www.prnewswire.com/news-releases/quarterhill-completes-acquisition-of-etc-301367721.html)
 
 Oracle Database Architect
 * Key contributor to state of the art CI/CD implementation for Oracle database. Specific contributions include:
@@ -103,7 +105,7 @@ Oracle Database Architect
     * Seminar: CBT Sample Exercise
     * Seminar: CBT Review
 
-### TEKsystems
+### [TEKsystems](https://www.teksystems.com/)
 **May 2015 - Oct. 2015: Plano, Texas**
 
 Sr. Database Developer
@@ -118,7 +120,7 @@ Sr. Database Developer
 * Fixed several minor defects.
 
 
-### Epsilon
+### [Epsilon](https://www.epsilon.com/us)
 **Feb. 2014 - May 2015: Irving, Texas**
 
 Sr. Database DeveloperSr. Database Developer
@@ -131,8 +133,10 @@ Sr. Database DeveloperSr. Database Developer
     * "Message Logging Options in the Oracle Database"
     * "PL/SQL Call Tree Reporting and Review of PLSCOPE"
 
-### DMSTEX (Denton County)
+### [DMSTEX (Denton County)](https://www.dmstex.com/)
 **Sep. 2011 - May 2015: Flower Mound, Texas**
+
+(Moved to Dallas County)
 
 Proprietor
 * Developed and delivered custom federal government procurement reports to Cross Timbers Procurement Center.
@@ -146,22 +150,24 @@ Proprietor
     5. [DDGS Generated History/Audit](https://rumble.com/v3wjjns-5.-ddgs-generated-historyaudit.html?e9s=src_v1_ucp)
 
 
-### Enkitec
+### [Enkitec](https://www.accenture.com/us-en/)
 **May 2011 - Sep. 2011L Irving, Texas**
+
+[Sold to Accenture in 2014](https://newsroom.accenture.com/news/2014/accenture-to-expand-its-oracle-engineered-systems-capabilities-with-acquisition-of-enkitec)
 
 Sr. Technical Consultant
 * Learned Oracle 11g Exadata and assisted with a successful Oracle 11g Exadata Proof-of-Concept (POC) for Noble Energy.
 * Upgraded Pro*C programs to Oracle 11g Exadata for Argo.
 * Developed a PowerBuilder Library (PBL) converter using Yabasic. Generated 1.2 million lines of Oracle11g PL/SQL code using the converter, saving the Cirro project an estimated $250K-$500K in manual coding efforts.
 
-### TEXOra (Guadalupe County)
+### TEXOra (Guadalupe County) - Moved to Dallas
 **Oct. 2010 - May 2011: Seguin, Texas**
 
 Proprietor
 * Developed and published Database Source Code Generation Tool for Relational Designers as Open Source on Google Code (http://dtgen.org).
 * Developed an Oracle 11g database to PayPal interface for a Community News and Classified Ads prototype system.
 
-### Bright Byte Consulting
+### [Bright Byte Consulting](https://www.brightbyteconsulting.com/)
 **Jul. 2010 - Oct. 2010: Atlanta, Georgia (Remote)
 
 Database Architect
@@ -170,7 +176,7 @@ Database Architect
 * The system was successfully demonstrated with the database.
 * The database included full referential integrity, transaction control, and multi-threading coordination.
 
-### BIF Technologies
+### [BIF Technologies](https://biftechnologies.com/)
 **Apr. 2009 - Jun. 2010: San Antonio, Texas**
 
 Sr. ConsultantSr. Consultant
@@ -182,7 +188,7 @@ Sr. ConsultantSr. Consultant
 * Developed a data driven test data generator for PostgreSQL using GNU/Unix shell scripts, which I also converted for Oracle 10g for final system delivery.
 * Completed ETL performance testing using generated test data.
 
-### Southwest Research Institute
+### [Southwest Research Institute](https://www.swri.org/)
 **Apr. 2004 - Apr. 2009: San Antonio, Texas**
 
 Sr. Research Engineer
@@ -204,8 +210,14 @@ Sr. Research Engineer
     * Authored and presented "Oracle for Project Managers" at the September 2005 SwRI Developers Forum.
     * Co-authored and presented "Oracle Partner Network" at the January 2006 SwRI Developers Forum.
 
-### Thinkspark
+### [Thinkspark](https://www.linkedin.com/company/thinkspark/)
 **Mar. 1997 - Apr 2004: San Antonio, Texas**
+
+[Renamed from Database Consultants in 1998](https://digitgaps.com/report-store/thinkspark-corporation-company-profile-financial-and-strategic-swot-analysis-mergers-and-acquisitions-partnerships-and-investments-news-key-profiles-and-competitors-report/)
+
+[Sold to Axtive in 2003](https://digitgaps.com/report-store/thinkspark-corporation-company-profile-financial-and-strategic-swot-analysis-mergers-and-acquisitions-partnerships-and-investments-news-key-profiles-and-competitors-report/)
+
+[Sold to IBM in 2000](https://www.bizjournals.com/dallas/stories/2000/06/19/story4.html)
 
 Technical Lead
 * Responsible for the hiring, direction, and performance of up to 32 technical consultants.
@@ -219,8 +231,12 @@ Technical Lead
 * Presentations:
     * Authored and presented "Custom Application Development with PL/SQL Server Pages" at the June 2003 Oracle Tech Day in San Antonio, Texas.
 
-### Motorola
+### [Motorola](https://www.vitesco-technologies.com/en-us)
 **Jun. 1986 - Mar. 1997: Seguin, Texas
+
+[Sold to Continental in 2006](https://www.marketwatch.com/story/motorola-sells-auto-electronics-ops-to-continental-for-1b)
+
+[Spin-Off to Vitesco in 2021](https://www.continental.com/en/investors/vitesco-technologies-spin-off/)
 
 Sr. Manufacturing Engineer
 * Involved with two major Computer Aided Manufacturing (CAM) projects.
