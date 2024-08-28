@@ -104,11 +104,11 @@ Oracle PL/SQL Developer
 
 Oracle Database Architect
 * Key contributor to state of the art CI/CD implementation for Oracle database. Specific contributions include:
-* Created custom PL/SQL package to generate database source code with schema and data using DBMS_METADATA, including binary images stored in database, Java source, Java fine grained permission, XML ACL network access permissions, and out-of-sequence cross-schema object dependencies (grants, indexes, and triggers).
-* Created stub schema and "loopback" database links to resolve compilation errors from unresolved database link targets.
-* Created custom SQL build script that creates entire database with seed data in a new PDB, runs wtPLSQL unit tests, creates JUnit XML for Jenkins reporting, unplugs and zips PDB for storage on Nexus server.
-* Created custom Linux scripts to setup, list, load, and remove complete databases in local docker containers from PDB zip files stored on a Nexus server.
-* Created comprehensive Wiki site for all database/PDB setup and operational procedures.
+    * Created custom PL/SQL package to generate database source code with schema and data using DBMS_METADATA, including binary images stored in database, Java source, Java fine grained permission, XML ACL network access permissions, and out-of-sequence cross-schema object dependencies (grants, indexes, and triggers).
+    * Created stub schema and "loopback" database links to resolve compilation errors from unresolved database link targets.
+    * Created custom SQL build script that creates entire database with seed data in a new PDB, runs wtPLSQL unit tests, creates JUnit XML for Jenkins reporting, unplugs and zips PDB for storage on Nexus server.
+    * Created custom Linux scripts to setup, list, load, and remove complete databases in local docker containers from PDB zip files stored on a Nexus server.
+    * Created comprehensive Wiki site for all database/PDB setup and operational procedures.
 * Provided critical support of database rollout from Intel to SPARC technology (unable to clone between these platforms).
 * Instrumental in avoiding the removal of crucial account balance shared locking in enterprise application.
 * Identified, corrected, and deployed major correction to data encryption package in Oracle database.
