@@ -249,7 +249,7 @@ Technical Lead
     * Authored and presented "Custom Application Development with PL/SQL Server Pages" at the June 2003 Oracle Tech Day in San Antonio, Texas.
 
 ### [Motorola](https://www.vitesco-technologies.com/en-us)
-**Jun. 1986 - Mar. 1997: Seguin, Texas
+**Jun. 1986 - Mar. 1997: Seguin, Texas**
 
 *Update:*
 * [Sold to Continental in 2006](https://www.marketwatch.com/story/motorola-sells-auto-electronics-ops-to-continental-for-1b)
