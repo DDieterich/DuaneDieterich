@@ -87,7 +87,7 @@ Oracle PL/SQL Developer
 * Development tools included: SQL\*Developer, VS-Code, Putty, GitLab, and Jira.
 
 ### [ETC (Electronic Transaction Consultants)](https://www.quarterhill.com/)
-Oct. 2015 - Mar. 2022: Richardson, Texas
+**Oct. 2015 - Mar. 2022: Richardson, Texas**
 
 *Update:*
 * [Sold to Quarterhill in 2021](https://www.prnewswire.com/news-releases/quarterhill-completes-acquisition-of-etc-301367721.html)
@@ -186,7 +186,7 @@ Proprietor
 * Developed an Oracle 11g database to PayPal interface for a Community News and Classified Ads prototype system.
 
 ### [Bright Byte Consulting](https://www.brightbyteconsulting.com/)
-**Jul. 2010 - Oct. 2010: Atlanta, Georgia (Remote)
+**Jul. 2010 - Oct. 2010: Atlanta, Georgia (Remote)**
 
 Database Architect
 * Designed, built, and tested a "monitored object" MS SQL Server database for Alcatel-Lucent.
