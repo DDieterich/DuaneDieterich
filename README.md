@@ -11,6 +11,14 @@ Your suspicions are correct. We are not here because of random chance. There is 
 * [@DuaneDieterich on X](https://x.com/DuaneDieterich) - Free speech social media platform.
 * [Freedom of Religion](Freedom-Of-Religion.md) - Do I have the freedom to practice a religion ...
 * [Church Audio PDF](Church_Audio.pdf)
+* Church Memberships:
+    * [Messiah Lutheran Church, Plano, Texas](https://www.messiahlutheran.com/)
+    * [Lamb of God, Flower Mound, Texas](https://log.org/)
+    * [Grace Lutheran Church, Seguin, Texas](https://www.facebook.com/p/Grace-Lutheran-Church-Seguin-TX-100066678977100/)
+    * [Mt. Olive Lutheran Church, San Antonio, Texas](https://www.mtolivesa.org/)
+    * [Concordia Lutheran Church, San Antonio, Texas](https://www.concordia.cc/)
+    * [St. Paul Lutheran Church, Waco, Texas](https://www.splcwaco.com/)
+    * [St. Mark Lutheran Church, Waco, Texas](https://stmarkwaco.com/)
 
 ### Professional
 * [DMSTEX](https://www.dmstex.com/) - Advancing automated software engineering for relational technology.
@@ -34,19 +42,14 @@ Your suspicions are correct. We are not here because of random chance. There is 
 * [utPLSQL_Lite](https://github.com/DDieterich/utPLSQL_Lite) - Intended to be a seed for utPLSQL version 3.
 
 
-## About
-
-Experienced IT professional with a technology focus on Oracle database. Providing solutions to complex problems using engineering background and extensive technical experience. Specializing in Oracle Database design, custom generation, development, test, deployment, and maintenance.
-
-
-## Services
+## Oracle Services
 * Oracle [Database Application](https://www.oracle.com/database/technologies/application-development.html) Development
 * Oracle Database [Source Code](https://odbcapture.org/) Audit
 * Oracle [Thick Database](https://www.dulcian.com/development/thick-database/) Testing
 * [Oracle APEX](https://apex.oracle.com/en/) Web Development
 
 
-## Experience
+## Oracle Experience
 
 ### [DMSTEX (Dallas County)](https://www.dmstex.com/)
 **Feb. 2015 - Present: Richardson, Texas**
@@ -275,9 +278,16 @@ Activities and societies:
 ### [McLennan Community College](https://www.mclennan.edu/)
 **1984: Waco, Texas**
 
-Pre-Engineering Studies
-
 Activities and societies:
 * 1983-84 Certificate of Merit for Outstanding Scholarship in Engineering
 * 1983-84 Student Supreme Court Chief Justice
 * 1982-83 Student Supreme Court Clerk
+
+### [Robinson High School](https://www.risdweb.org/o/robinson-high-school)
+**1982: Robinson, Texas**
+
+Activities and societies:
+* Varsity Football
+* Marching Band
+* Concert Band
+* Stage Band
