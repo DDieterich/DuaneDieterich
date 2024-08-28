@@ -23,6 +23,8 @@ Your suspicions are correct. We are not here because of random chance. There is 
     * Cub Master: Jan. 2007 - Jan. 2008, Seguin, Texas
     * Tiger Cub Leader: Jan. 2006 - Jan. 2007, Seguin, Texas
     * Included attending training, recruiting cub scouts, arranging field trips, filing reports, and organizing den/pack meetings.
+* Private Pilot 583 hrs, Instrument Rated, SE Land Airplane, Complex Endorsement
+* [1968 Cessna 175](Cessna175.md)
 
 ### Professional
 * [DMSTEX](https://www.dmstex.com/) - Advancing automated software engineering for relational technology.
