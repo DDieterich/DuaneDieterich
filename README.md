@@ -19,6 +19,10 @@ Your suspicions are correct. We are not here because of random chance. There is 
     * [Concordia Lutheran Church, San Antonio, Texas](https://www.concordia.cc/)
     * [St. Paul Lutheran Church, Waco, Texas](https://www.splcwaco.com/)
     * [St. Mark Lutheran Church, Waco, Texas](https://stmarkwaco.com/)
+* Boy Scouts of America [Alamo Area Council](https://www.alamoareabsa.org/)
+    * Cub Master: Jan. 2007 - Jan. 2008, Seguin, Texas
+    * Tiger Cub Leader: Jan. 2006 - Jan. 2007, Seguin, Texas
+    * Included attending training, recruiting cub scouts, arranging field trips, filing reports, and organizing den/pack meetings.
 
 ### Professional
 * [DMSTEX](https://www.dmstex.com/) - Advancing automated software engineering for relational technology.
@@ -140,7 +144,7 @@ Sr. Database Developer
 ### [Epsilon](https://www.epsilon.com/us)
 **Feb. 2014 - May 2015: Irving, Texas**
 
-Sr. Database DeveloperSr. Database Developer
+Sr. Database Developer
 * Worked on "thankyou.com" platform for Citibank.
 * Supported 24/7 Oracle 11g database operations and application/platform troubleshooting.
 * Significantly improved use of "ManageEngine" Application Manager monitoring tool.
@@ -169,7 +173,7 @@ Proprietor
 
 
 ### [Enkitec](https://www.accenture.com/us-en/)
-**May 2011 - Sep. 2011L Irving, Texas**
+**May 2011 - Sep. 2011 Irving, Texas**
 
 *Update:*
 * [Sold to Accenture in 2014](https://newsroom.accenture.com/news/2014/accenture-to-expand-its-oracle-engineered-systems-capabilities-with-acquisition-of-enkitec)
@@ -201,7 +205,7 @@ Database Architect
 ### [BIF Technologies](https://biftechnologies.com/)
 **Apr. 2009 - Jun. 2010: San Antonio, Texas**
 
-Sr. ConsultantSr. Consultant
+Sr. Consultant
 * Development DBA for the US Army Workload Management System for Nursing technology refresh project.
 * Performed task management, logical model design, database generation, PostgreSQL implementation, and Oracle implementation,
 * Developed custom ETL business logic and star-schema data warehouse storage using PL/SQL.
