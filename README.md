@@ -53,10 +53,10 @@ Experienced IT professional with a technology focus on Oracle database. Providin
 
 Proprietor - Self-employed
 * Started [Relation Design Generation](https://www.reldesgen.com) Blog
-* Developed and published "utPLSQL_Lite", a utPLSQL V3 Seed Project
-* Developed and published "wtPLSQL", a continuation of utPLSQL
-* Developed Wiki Based Issues for Distributed Issue Tracking
-* Developed Oracle Database Source Code Capture Project (ODBCapture)
+* Developed and published ["utPLSQL_Lite"](https://github.com/DDieterich/utPLSQL_Lite), a utPLSQL V3 Seed Project
+* Developed and published ["wtPLSQL"](https://wtplsql.org/), a continuation of utPLSQL
+* Developed [Wiki Based Issues](https://github.com/DDieterich/WikiBasedIssues) for Distributed Issue Tracking
+* Developed Oracle Database Source Code Capture Project ([ODBCapture](https://odbcapture.org/))
 * Developed Improved Oracle Package/Schema Generator (based on [DTGen Project](https://dtgen.org))
 
 ### [Centene Corporation](https://www.centene.com/)
@@ -257,3 +257,27 @@ Technical Lead
 Sr. Manufacturing Engineer
 * Involved with two major Computer Aided Manufacturing (CAM) projects.
 * Instrumental in the implementation of a state-of-the-art shop floor system
+
+## Education
+
+### Texas A&M University
+**1988: College Station, Texas**
+
+BS, Industrial Engineering with a focus on Automated Manufacturing
+
+Activities and societies:
+* Dec 1986 Distinguished Student Award
+* May 1986 Distinguished Student Award
+* 1986 National Dean's List
+* 1985 National Dean's List
+* 1984 McLennan County Texas A&M Club Scholarship
+
+### McLennan Community College
+**1984: Waco, Texas**
+
+Pre-Engineering Studies
+
+Activities and societies:
+* 1983-84 Certificate of Merit for Outstanding Scholarship in Engineering
+* 1983-84 Student Supreme Court Chief Justice
+* 1982-83 Student Supreme Court Clerk
