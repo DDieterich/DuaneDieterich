@@ -260,7 +260,7 @@ Sr. Manufacturing Engineer
 
 ## Education
 
-### Texas A&M University
+### [Texas A&M University](https://www.tamu.edu/index.html)
 **1988: College Station, Texas**
 
 BS, Industrial Engineering with a focus on Automated Manufacturing
@@ -272,7 +272,7 @@ Activities and societies:
 * 1985 National Dean's List
 * 1984 McLennan County Texas A&M Club Scholarship
 
-### McLennan Community College
+### [McLennan Community College](https://www.mclennan.edu/)
 **1984: Waco, Texas**
 
 Pre-Engineering Studies
