@@ -234,7 +234,6 @@ Sr. Research Engineer
 *Update:*
 * [Renamed from Database Consultants in 1998](https://digitgaps.com/report-store/thinkspark-corporation-company-profile-financial-and-strategic-swot-analysis-mergers-and-acquisitions-partnerships-and-investments-news-key-profiles-and-competitors-report/)
 * [Sold to Axtive in 2003](https://digitgaps.com/report-store/thinkspark-corporation-company-profile-financial-and-strategic-swot-analysis-mergers-and-acquisitions-partnerships-and-investments-news-key-profiles-and-competitors-report/)
-* [Sold to IBM in 2000](https://www.bizjournals.com/dallas/stories/2000/06/19/story4.html)
 
 Technical Lead
 * Responsible for the hiring, direction, and performance of up to 32 technical consultants.
