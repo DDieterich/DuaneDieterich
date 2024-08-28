@@ -1,5 +1,5 @@
 
-Your suspicions are correct. We are not here because of random chance. There is a Creator and He loves us so much that He gave His only Son to die for us.
+Your suspicions are correct. We are not here because of random chance. There is a Creator and He loves us so much that He sacrificed His only Son to save us.
 
 [Psalms 111:10](https://www.biblegateway.com/passage/?search=Psalms+111:10&version=ESV), *"The fear of the Lord is the beginning of wisdom; all those who practice it have a good understanding."*
 
