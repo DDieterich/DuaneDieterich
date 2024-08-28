@@ -40,10 +40,10 @@ Experienced IT professional with a technology focus on Oracle database. Providin
 
 
 ## Services
-* Application Development
-* Database Development
-* Software Testing
-* Web Development
+* Oracle [Database Application](https://www.oracle.com/database/technologies/application-development.html) Development
+* Oracle Database [Source Code](https://odbcapture.org/) Audit
+* Oracle [Thick Database](https://www.dulcian.com/development/thick-database/) Testing
+* [Oracle APEX](https://apex.oracle.com/en/) Web Development
 
 
 ## Experience
