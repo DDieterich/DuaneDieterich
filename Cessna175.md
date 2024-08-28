@@ -1,5 +1,5 @@
 
-1968 Cessna 175
+1958 Cessna 175
 
 [AOPA Fact Sheet](https://www.aopa.org/go-fly/aircraft-and-ownership/aircraft-fact-sheets/cessna-175)
 
