@@ -52,12 +52,12 @@ Experienced IT professional with a technology focus on Oracle database. Providin
 **Feb. 2015 - Present: Richardson, Texas**
 
 Proprietor - Self-employed
-* Started Blog at https://www.reldesgen.com
+* Started [Relation Design Generation](https://www.reldesgen.com) Blog
 * Developed and published "utPLSQL_Lite", a utPLSQL V3 Seed Project
 * Developed and published "wtPLSQL", a continuation of utPLSQL
 * Developed Wiki Based Issues for Distributed Issue Tracking
 * Developed Oracle Database Source Code Capture Project (ODBCapture)
-* Developed Improved Oracle Package/Schema Generator (based on https://dtgen.org)
+* Developed Improved Oracle Package/Schema Generator (based on [DTGen Project](https://dtgen.org))
 
 ### [Centene Corporation](https://www.centene.com/)
 **Jul. 2023 - Feb. 2024: (Remote) St Louis, Missouri**
@@ -182,7 +182,7 @@ Sr. Technical Consultant
 * Moved to Denton County as DMSTEX
 
 Proprietor
-* Developed and published Database Source Code Generation Tool for Relational Designers as Open Source on Google Code (http://dtgen.org).
+* Developed and published [Database Source Code Generation Tool](https://dtgen.org) for Relational Designers as Open Source on Google Code.
 * Developed an Oracle 11g database to PayPal interface for a Community News and Classified Ads prototype system.
 
 ### [Bright Byte Consulting](https://www.brightbyteconsulting.com/)
