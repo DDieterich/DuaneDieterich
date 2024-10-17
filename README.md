@@ -70,7 +70,7 @@ Proprietor - Self-employed
 * Developed Improved Oracle Package/Schema Generator (based on [DTGen Project](https://dtgen.org))
 
 ### [Centene Corporation](https://www.centene.com/)
-**Jul. 2023 - Feb. 2024: (Remote) St Louis, Missouri**
+**Jul. 2023 - Feb. 2024: (Remote) Fresno, California**
 
 *Update:*
 * [Formerly US Script of Fresno, CA](https://investors.centene.com/2006-01-04-Centene-Corporation-Closes-Acquisition-Of-US-Script,-Inc)
