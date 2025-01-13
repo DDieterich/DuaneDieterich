@@ -7,10 +7,10 @@ Feb. 2015 - Present: Richardson, Texas
 Proprietor - Self-employed
 
 * [Relation Design Generation](https://www.reldesgen.com) Blog
-* Developed and published ["utPLSQL_Lite"](https://github.com/DDieterich/utPLSQL_Lite), a utPLSQL V3 Seed Project
+* Developed Oracle Database Source Code Capture Project ([ODBCapture](https://odbcapture.org/))
 * Developed and published ["wtPLSQL"](https://wtplsql.org/), a continuation of utPLSQL
 * Developed [Wiki Based Issues](https://github.com/DDieterich/WikiBasedIssues) for Distributed Issue Tracking
-* Developed Oracle Database Source Code Capture Project ([ODBCapture](https://odbcapture.org/))
+* Developed and published ["utPLSQL_Lite"](https://github.com/DDieterich/utPLSQL_Lite), a utPLSQL V3 Seed Project
 * Developed Improved Oracle Package/Schema Generator (based on [DTGen Project](https://dtgen.org))
 
 ### [Centene Corporation](https://www.centene.com/)
