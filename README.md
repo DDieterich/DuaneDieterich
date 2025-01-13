@@ -1,15 +1,7 @@
 
 [Click Here](Personal) to learn more about me personally.
 
-Experienced IT professional with a technology focus on Oracle database.
-
-Specializing in applications for the Oracle database:
-* Design
-* Generation
-* Development
-* Testing
-* Deployment
-* Maintenance
+Experienced IT professional with a technology focus on Oracle database, specializing in Design, Generation, Development, Testing, Deployment, and Maintenance of applications for the Oracle database.
 
 [Click here](Work-Experience) for my work experiences.
 
