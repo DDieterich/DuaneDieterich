@@ -15,11 +15,12 @@ Experienced IT professional with a technology focus on Oracle database, speciali
 
 ## Open Source Projects
 
-* [ODBCapture](https://odbcapture.org/) - Native PL/SQL Application to Capture Source Code and Configuration Data.
-* [Wiki Based Issues](https://github.com/DDieterich/WikiBasedIssues) - Wiki Based Issue Tracking System for GitHub/GitLab.
-* [wtPLSQL](https://wtplsql.org/) - White-box testing framework for Oracle database objects.
+* [ODBCapture](https://odbcapture.org) - Native PL/SQL Application to Capture Source Code and Configuration Data.
+* [wtPLSQL](https://wtplsql.org) - White-box testing framework for Oracle database objects.
+* [ODBCapture.demo](https://github.com/DDieterich/ODBCapture.demo) - Demonstration of ODBCapture using Oracle's Sample Schema.
 * [utPLSQL_Lite](https://github.com/DDieterich/utPLSQL_Lite) - Intended to be a seed for utPLSQL version 3.
-* [DTGen Project](https://dtgen.org/) - Data driven source code generator for Oracle DDL and Oracle APEX files.
+* [Wiki Based Issues](https://github.com/DDieterich/WikiBasedIssues) - Wiki Based Issue Tracking System for GitHub/GitLab.
+* [DTGen Project](https://dtgen.org) - Data driven source code generator for Oracle DDL and Oracle APEX files.
 
 
 ## Publications
