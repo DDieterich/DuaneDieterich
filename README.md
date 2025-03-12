@@ -1,6 +1,3 @@
-
-[Click Here](Personal) to learn more about me personally.
-
 Experienced IT professional with a technology focus on Oracle database, specializing in Design, Generation, Development, Testing, Deployment, and Maintenance of applications for the Oracle database.
 
 
