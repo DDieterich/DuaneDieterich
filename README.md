@@ -3,8 +3,6 @@
 
 Experienced IT professional with a technology focus on Oracle database, specializing in Design, Generation, Development, Testing, Deployment, and Maintenance of applications for the Oracle database.
 
-[Click here](Work-Experience) for my work experiences.
-
 
 ## Professional Links
 
@@ -41,3 +39,6 @@ Experienced IT professional with a technology focus on Oracle database, speciali
 
 * 2002 [Oracle Development Tools User Group](https://www.odtug.com/) Conference (Now called Kscope)
 * Co-Authors: [Roland Berg](https://www.linkedin.com/in/rolandsberg/)
+
+
+[Click here](Work-Experience) for my work experiences.
